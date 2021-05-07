@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/donpe/Dropbox/Kurs 4 C++/C++/GeeksForGeeks/Sorting/KthSmallestElement/Lab2_2"
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/donpe/Dropbox/Kurs 4 C++/C++/Labs/DataStructuresLab2_2/Lab2_2"
 -- The C compiler identification is AppleClang 12.0.5.12050022
 -- The CXX compiler identification is AppleClang 12.0.5.12050022
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/donpe/Dropbox/Kurs 4 C++/C++/GeeksForGeeks/Sorting/KthSmallestElement/Lab2_2/cmake-build-debug
+-- Build files have been written to: /Users/donpe/Dropbox/Kurs 4 C++/C++/Labs/DataStructuresLab2_2/Lab2_2/cmake-build-debug

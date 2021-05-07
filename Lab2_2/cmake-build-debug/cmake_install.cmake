@@ -1,4 +1,4 @@
-# Install script for directory: /Users/donpe/Dropbox/Kurs 4 C++/C++/GeeksForGeeks/Sorting/KthSmallestElement/Lab2_2
+# Install script for directory: /Users/donpe/Dropbox/Kurs 4 C++/C++/Labs/DataStructuresLab2_2/Lab2_2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/donpe/Dropbox/Kurs 4 C++/C++/GeeksForGeeks/Sorting/KthSmallestElement/Lab2_2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/donpe/Dropbox/Kurs 4 C++/C++/Labs/DataStructuresLab2_2/Lab2_2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

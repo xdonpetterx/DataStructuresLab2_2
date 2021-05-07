@@ -41,6 +41,6 @@ int main() {
     cout << k << "th smallest element is: " << arr[kthSmallest(arr, n, k)];
     auto stop = chrono::high_resolution_clock::now();
     chrono::duration<float> duration = stop - start;
-    cout << "\nTime to find the " << k << "th smallest element using naive approach: " << duration.count() << "s\n";
+    cout << "\nTime to find the " << k << "th smallest element using QuickSort with Lomuto Partitioning: " << duration.count() << "s\n";
     return 0;
 }

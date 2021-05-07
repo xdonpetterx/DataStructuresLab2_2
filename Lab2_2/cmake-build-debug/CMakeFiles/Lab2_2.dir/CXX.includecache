@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/donpe/Dropbox/Kurs 4 C++/C++/Labs/DataStructuresLab2_2/Lab2_2/main.cpp
+iostream
+-
+chrono
+-
+
